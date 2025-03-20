@@ -1,7 +1,14 @@
 "some text" 
 "Change via github"
 
+<<<<<<< HEAD
 "Changes via vscode"
+
+
+"Change via R studio"
+=======
+"Change via vscode"
+>>>>>>> 544c05f845d3af88942e0e561f8246c10f1f8d88
 
 
 "Change via R studio"
